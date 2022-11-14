@@ -1,5 +1,5 @@
 # Título
 ## Descripción
 Descripción del proyecto.
-##Licencia
+## Licencia
 Copyright (c) equipo07.
