@@ -1,1 +1,1 @@
-Incluiría archivos del sistema, archivos de tests y con diagramas. También se incluyen archivos con contraseña o con claves de bases de datos para no revelarlos.
+Incluiría archivos del sistema, archivos de tests y con diagramas. También incluiría archivos con contraseña o con claves de bases de datos para no revelarlos.
